@@ -16,7 +16,7 @@ From the contribution guidelines of the Angular project [here](https://github.co
 
 Install directly from the IDE plugin manager (File > Settings > Plugins > Browser repositories > Git Commit Template)
 
-## Usage
+## Usagedasdasdsd
 
 ![Commit-step1](static/commit-template-1.png)
 
